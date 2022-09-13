@@ -1,4 +1,4 @@
-- 👋 Hi, I’m baeklemad  (which is not my actual name for obvious reasons
+- 👋 Hi, I’m baeklemad  (which is not my actual name for obvious reasons)
 - 👀 I’m interested in game development and coding in general 
 - 🌱 I’m currently learning how github works (hopefully, i can understand this ASAP)
 - 💞️ I’m currently not looking to collaborate (as im currently learning)
