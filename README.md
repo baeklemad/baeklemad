@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Madel De Guzman
 =======================================================================================================================================
 
-A computer engineering student
+A computer engineer
 ------------------------------
 
 I am a newbie in this industry. I would like to learn more about github and coding in general.
@@ -9,7 +9,7 @@ I am a newbie in this industry. I would like to learn more about github and codi
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [madelynadelaida@gmail.com](mailto:madelynadelaida@gmail.com)
 * 🤝  I'm open to collaborating on a project as long as it's a learning path
-* ⚡  I really don't know anything about GitHub
+
 
 <a href="https://www.twitter.com/madel_tuan" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/madel_tuan?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
