@@ -6,7 +6,7 @@ Not your typical portfolio. I build things, break things, and turn ideas into in
 
 ## 🧷 Who I am
 
-Hi, I’m **Madel De Guzman** — a computer engineer from the Philippines who’s obsessed with making ideas *move, click, and come alive*.
+Hi, I’m **Madel** — a computer engineer from the Philippines who’s obsessed with making ideas *move, click, and come alive*.
 
 I like systems, cybersecurity, automation, and anything that makes me go:  
 “how does this even work?” → then I break it to find out.
