@@ -1,40 +1,47 @@
-## ⚡ Hey, welcome to my space
+# ⚡ Madel De Guzman
 
-Not your typical portfolio. I build things, break things, and turn ideas into interactive chaos (the good kind).
-
----
-
-## 🧷 Who I am
-
-Hi, I’m **Madel** — a computer engineer from the Philippines who’s obsessed with making ideas *move, click, and come alive*.
-
-I like systems, cybersecurity, automation, and anything that makes me go:  
-“how does this even work?” → then I break it to find out.
+> *computer engineer | builder of weird things | chaos enjoyer*
 
 ---
 
-## 🖤 My work, unfiltered
+## 🧷 welcome to my little corner of the internet
 
-👉 **Portfolio:** https://project-57f9n.vercel.app/
+Not your typical portfolio.
 
----
+I build systems, break systems, and turn random ideas into interactive things that probably shouldn’t work—but do.
 
-## 💻 What you’ll find here
-
-- Projects that actually do things, not just sit pretty  
-- Experiments, tools, and curiosity-driven builds  
-- A mix of engineering + creative chaos  
-- Bits of cybersecurity and automation exploration  
+A mix of curiosity, engineering, and controlled chaos.
 
 ---
 
-## 🧷 Vibe check
+## 🖤 who am i?
 
-Minimal polish. Maximum intent.  
-If it feels a little raw, that’s intentional.
+Hi, I’m **Madel**, a computer engineer from the Philippines.
+
+I like:
+- cybersecurity & how systems get broken 🔐  
+- automation that makes life easier 🤖  
+- data, tools, and “wait… how does that work?” moments  
+- building things just to see if I can  
 
 ---
 
-## 🖼️ Profile
+## 🌐 my work
 
-![profile](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+👉 **live portfolio:**  
+### 🔗 https://project-57f9n.vercel.app/
+
+*(go ahead, poke around — it doesn’t bite… probably)*
+
+---
+
+## 💻 what you’ll find here
+
+🧪 experiments that may or may not be stable  
+⚙️ automation & systems thinking  
+🔍 cybersecurity curiosity spirals  
+🧠 random builds that started as “what if…”  
+
+---
+
+## 🧷 aesthetic check
