@@ -43,5 +43,3 @@ I like:
 🧠 random builds that started as “what if…”  
 
 ---
-
-## 🧷 aesthetic check
